@@ -10,7 +10,7 @@ width="200"
 [<img src="https://github.com/munna00mkv/quizller_app/blob/master/SS/Screenshot_1633764978.png" align="left"
 width="200"
     hspace="10" vspace="10">](https://github.com/munna00mkv/quizller_app/blob/master/SS/Screenshot_1633764978.png)
-[<img src="https://github.com/munna00mkv/quizller_app/blob/master/SS/Screenshot_1633764985.png" align="left"
+[<img src="https://github.com/munna00mkv/quizller_app/blob/master/SS/Screenshot_1633764985.png" align="center"
 width="200"
     hspace="10" vspace="10">](https://github.com/munna00mkv/quizller_app/blob/master/SS/Screenshot_1633764985.png)
 
